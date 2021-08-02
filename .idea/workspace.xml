@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b30d3a7-c491-413c-ab36-a432daf4fdd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wAEsmiz4JtVNZEdSh65tstv5tD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/0123/mysql-connector-java-8.0.21.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\RealEstate\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.user">
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server" />
+      <module name="RealEstate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="user" />
+      <module name="RealEstate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.user" />
+        <item itemvalue="Application.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b30d3a7-c491-413c-ab36-a432daf4fdd4" name="Default Changelist" comment="" />
+      <created>1627893202272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627893202272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="77" key="#Project_Structure" timestamp="1627893920174">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="361" y="77" key="#Project_Structure/0.0.1536.832@0.0.1536.832" timestamp="1627893920174" />
+    <state x="473" y="160" key="FileChooserDialogImpl" timestamp="1627894670514">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="473" y="160" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1627894670514" />
+    <state width="1342" height="198" key="GridCell.Tab.0.bottom" timestamp="1627894853792">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1627894853792" />
+    <state width="1342" height="198" key="GridCell.Tab.0.center" timestamp="1627894853791">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1627894853791" />
+    <state width="1342" height="198" key="GridCell.Tab.0.left" timestamp="1627894853791">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1627894853791" />
+    <state width="1342" height="198" key="GridCell.Tab.0.right" timestamp="1627894853792">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1342" height="198" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1627894853792" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1627894679481">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1627894679481" />
+    <state x="209" y="42" key="new project wizard" timestamp="1627894347454">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="209" y="42" key="new project wizard/0.0.1536.832@0.0.1536.832" timestamp="1627894347454" />
+  </component>
+</project>
